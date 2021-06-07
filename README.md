@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Seção 11: Formulários
+Nessa parte foi repassado a criação de formulários e as validações que podemos fazer dirretamente no formulário.
+
+# Conteudo:
+134. Criação do Projeto
+135. Template Driven Forms
+136. Vinculando inputs a atributos
+137. Validação nativa do Angular - Parte 1
+138. Validação nativa do Angular - Parte 2
+139. Validação de formulários
+140. Reactive forms - form control
+141. Reactive forms - form group
+142. Reactive forms - form builder
+143. Reactive forms - form array - Parte 1
+144. Reactive forms - form array - Parte 2
+145. Reactive forms - form array - Parte 3
+146. Reactive forms - Validação - Parte 1
+147. Reactive forms - Validação - Parte 2
